@@ -1,6 +1,6 @@
 # Rincón Nutritivo
 
-**Proyecto de título – E-commerce de alimentos saludables**  
+Proyecto de título – E-commerce de alimentos saludables  
 
 Rincón Nutritivo es una tienda online enfocada en alimentación saludable, que permite a los usuarios filtrar productos según dietas o restricciones alimenticias. El proyecto incluye un panel de administración para gestionar alimentos, dietas y compatibilidades, así como un sistema de compras con carrito y pagos integrados mediante la API de PayPal.  
 
