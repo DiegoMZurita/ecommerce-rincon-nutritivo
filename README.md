@@ -1,10 +1,8 @@
-# Rincón Nutritivo
-
-Proyecto de título – E-commerce de alimentos saludables  
-
+# Rincón Nutritivo  E-commerce
+ 
 Rincón Nutritivo es una tienda online enfocada en alimentación saludable, que permite a los usuarios filtrar productos según dietas o restricciones alimenticias. El proyecto incluye un panel de administración para gestionar alimentos, dietas y compatibilidades, así como un sistema de compras con carrito y pagos integrados mediante la API de PayPal.  
 
----
+
 
 ## Características
 
@@ -16,7 +14,7 @@ Rincón Nutritivo es una tienda online enfocada en alimentación saludable, que 
 - Interfaz responsiva y amigable para dispositivos móviles y escritorio.
 - Uso de alertas y notificaciones con SweetAlert y gráficos con Chart.js.
 
----
+
 
 ## Tecnologías
 
@@ -26,8 +24,6 @@ Rincón Nutritivo es una tienda online enfocada en alimentación saludable, que 
 - **Plataforma de despliegue:** PythonAnywhere
 - **Entorno de desarrollo:** Windows 10, Visual Studio Code
 
----
-
 ## Demo Online
 
 **Accede a la aplicación en producción:**
@@ -36,9 +32,9 @@ http://DiegoBMZurita.pythonanywhere.com
 ## Credenciales de prueba
 
 **Administrador:** 
-Usuario: tienda
-Contraseña: adminadmin
+- Usuario: tienda
+- Contraseña: adminadmin
 
 **Usuario común:**
-Usuario: diego
-Contraseña: contrasena123
+- Usuario: diego
+- Contraseña: contrasena123
