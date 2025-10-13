@@ -3,9 +3,10 @@
 Rincón Nutritivo es una tienda online enfocada en alimentación saludable, que permite a los usuarios filtrar productos según dietas o restricciones alimenticias. El proyecto incluye un panel de administración para gestionar alimentos, dietas y compatibilidades, así como un sistema de compras con carrito y pagos integrados mediante la API de PayPal.  
 
 ## Documentación Proyecto de Título 
-Este documento presenta el desarrollo completo del proyecto, incluyendo antecedentes, planteamiento del problema, objetivos y requerimientos. Contiene análisis de factibilidad, diagramas del sistema, modelo de datos y diseño de interfaz, así como un plan de pruebas detallado con casos manuales y automatizados. Además, se incluyen conclusiones y bibliografía de referencia.
 
-link: https://docs.google.com/document/d/1W7Pg5MP9EtKbF9pAGq4NQQEKR2ZpyGne/edit?usp=drive_link&ouid=103605999707229128711&rtpof=true&sd=true
+Este documento detalla el ciclo completo de desarrollo del proyecto, desde la introducción y antecedentes hasta la implementación y pruebas. Incluye análisis de factibilidad técnica, económica, operacional y legal, así como diagramas UML (casos de uso, clases, entidad-relación) y el modelo de datos normalizado. También se presenta un plan de pruebas exhaustivo con casos manuales y automatizados, evidencias de ejecución y conclusiones finales.
+
+[Acceder al documento completo en Google Drive](https://docs.google.com/document/d/1W7Pg5MP9EtKbF9pAGq4NQQEKR2ZpyGne/edit?usp=drive_link&ouid=103605999707229128711&rtpof=true&sd=true)
 
 ## Características
 
