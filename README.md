@@ -40,5 +40,5 @@ http://DiegoBMZurita.pythonanywhere.com
 - Contraseña: contrasena123
 
 **Paypal**
--Email: sb-yjoob31742566@personal.example.com
--Contraseña: P_)zc8'5
+- Email: sb-yjoob31742566@personal.example.com
+- Contraseña: P_)zc8'5
