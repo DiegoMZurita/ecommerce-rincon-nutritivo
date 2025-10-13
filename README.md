@@ -38,3 +38,7 @@ http://DiegoBMZurita.pythonanywhere.com
 **Usuario común:**
 - Usuario: diego
 - Contraseña: contrasena123
+
+**Paypal**
+-Email: sb-yjoob31742566@personal.example.com
+-Contraseña: P_)zc8'5
