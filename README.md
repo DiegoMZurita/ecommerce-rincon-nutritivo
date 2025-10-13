@@ -6,7 +6,7 @@ Rincón Nutritivo es una tienda online enfocada en alimentación saludable, que 
 
 Este documento detalla el ciclo completo de desarrollo del proyecto, desde la introducción y antecedentes hasta la implementación y pruebas. Incluye análisis de factibilidad técnica, económica, operacional y legal, así como diagramas UML (casos de uso, clases, entidad-relación) y el modelo de datos normalizado. También se presenta un plan de pruebas exhaustivo con casos manuales y automatizados, evidencias de ejecución y conclusiones finales.
 
-[Acceder al documento completo en Google Drive](https://docs.google.com/document/d/1W7Pg5MP9EtKbF9pAGq4NQQEKR2ZpyGne/edit?usp=drive_link&ouid=103605999707229128711&rtpof=true&sd=true)
+[Acceder al documento completo en Google Drive](https://docs.google.com/document/d/1W7Pg5MP9EtKbF9pAGq4NQQEKR2ZpyGne/edit?usp=sharing&ouid=103605999707229128711&rtpof=true&sd=true)
 
 ## Características
 
